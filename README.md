@@ -8,7 +8,7 @@ This is a **full-stack web application** that provides personalized electronics 
 
 * **Content-Based Filtering (CBF)**: Recommends products based on item features and similarity.  
 * **Collaborative Filtering (CF)**: Uses user-item interactions to suggest items that similar users liked.  
-* **Full-stack interface**: React frontend with Python/Flask backend.  
+* **Full-stack interface**: React frontend with Express and Python/Flask backend.  
 * **Model artifacts included**: `.pkl` and `.npy` files for easy deployment.
 
 ---
