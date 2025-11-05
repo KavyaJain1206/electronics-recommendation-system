@@ -1,0 +1,3328 @@
+[{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef303"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-qualcomm-edition-price-in-india-98036",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef304"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-pro-price-in-india-97188",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef305"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef306"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef307"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef308"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef309"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef30a"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef30b"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10-price-in-india-91802",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef30c"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef30d"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef30e"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef30f"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef310"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-atom-3-3190",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef311"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-vdeo-2-3909",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef312"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-x1-1593",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef313"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-a82-2322",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef314"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-405-1191",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef315"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-bolt-q332-3054",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef316"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-370-2583",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef317"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-unite-1683",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef318"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-selfie-4-3517",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef319"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-503e-1339",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef31a"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-p7-3252",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef31b"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-blaze-mt500-1175",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef31c"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-z41-price-in-india-91226",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef31d"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-bharat-4-4413",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef31e"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-x28-3786",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef31f"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-a97-3801",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef320"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-atom-3241",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef321"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-bharat-go-5470",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef322"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-4-912",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef323"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-beat-1246",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef324"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-430-240",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef325"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-atom-2-2875",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef326"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-beat-1246",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef327"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-magnum-x604-1752",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef328"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-bharat-2-plus-4546",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef329"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-x1-atom-s-2728",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef32a"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-hd-340",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef32b"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-hue-2-2708",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef32c"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-bolt-d303-2767",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef32d"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a8-2018-4557",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef32e"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j7-4374",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef32f"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-ace-nxt-1805",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef330"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s6-edge-2444",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef331"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-note-edge-1936",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef332"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s6-edge-2444",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef333"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s9-plus-4570",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef334"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-m10s-price-in-india-91087",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef335"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-m11-price-in-india-91842",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef336"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s7-3310",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef337"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s10-lite-price-in-india-91397",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef338"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-note-5-2866",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef339"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a20s-price-in-india-91108",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef33a"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a8-star-5602",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef33b"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-rex-70-583",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef33c"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-m01-price-in-india-94011",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef33d"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-f41-price-in-india-97664",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef33e"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a9-2018-5686",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef33f"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a20s-price-in-india-91108",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef340"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a3-2017-3943",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef341"
+  },
+  "userId": "dummy_user_3",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a7-2300",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef342"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/moto-g5s-plus-4262",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef343"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-google-nexus-6-2060",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef344"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-g-1129",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef345"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/moto-g5s-plus-4262",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef346"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-z-play-3732",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef347"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/moto-e5-4719",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef348"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-p30-5595",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef349"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-razr-xt910-451",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef34a"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-1s-5459",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef34b"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-g7-power-5753",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef34c"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-z-3562",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef34d"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-g4-3501",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef34e"
+  },
+  "userId": "dummy_user_4",
+  "itemId": "https://gadgets.ndtv.com/motorola-moto-g8-play-price-in-india-91234",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef34f"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/oppo-a1k-price-in-india-13041",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef350"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/intex-aqua-n8-1259",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef351"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef352"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/nokia-c3-price-in-india-96360",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef353"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/apple-iphone-xr-5647",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef354"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-401e-798",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef355"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-price-in-india-96311",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef356"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/lava-kkt-28-267",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef357"
+  },
+  "userId": "dummy_user_5",
+  "itemId": "https://gadgets.ndtv.com/vivo-y51l-3265",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef358"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/oppo-f3-plus-4080",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef359"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s9-plus-4570",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef35a"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/zopo-color-f2-3876",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef35b"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/itel-a22-pro-5605",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef35c"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s5-mini-1740",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef35d"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/micromax-unite-4-3594",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef35e"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/micromax-unite-1683",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef35f"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/apple-iphone-8-plus-4259",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef360"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-x5-4g-2846",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef361"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/nokia-8-3-5g-price-in-india-91801",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef362"
+  },
+  "userId": "dummy_user_6",
+  "itemId": "https://gadgets.ndtv.com/redmi-5-4257",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef363"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef364"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef365"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef366"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef367"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef368"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef369"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef36a"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-5-pro-price-in-india-91003",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef36b"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef36c"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef36d"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef36e"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef36f"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef370"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef371"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef372"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef373"
+  },
+  "userId": "dummy_user_7",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef374"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-atom-2x-3118",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef375"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-fuel-20-2395",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef376"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-kkt-18-264",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef377"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-selfie-lens-2730",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef378"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-x1-1593",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef379"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/micromax-bolt-d303-2767",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef37a"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-entice-1646",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef37b"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-z81-5726",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef37c"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-a89-3471",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef37d"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-x1-atom-s-2728",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef37e"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-2-2017-4148",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef37f"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-404e-2040",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef380"
+  },
+  "userId": "dummy_user_8",
+  "itemId": "https://gadgets.ndtv.com/micromax-bolt-selfie-3516",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef381"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j7-prime-3735",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef382"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-golden-988",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef383"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a8s-5759",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef384"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j8-5463",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef385"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j5-prime-3780",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef386"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s6-edge-2444",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef387"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a12-price-in-india-98527",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef388"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j2-core-2020-price-in-india-92093",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef389"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-on8-3796",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef38a"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j5-2719",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef38b"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-folder-2-3768",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef38c"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s5-mini-duos-1852",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef38d"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-y-cdma-547",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef38e"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-f41-price-in-india-97664",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef38f"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a7-2300",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef390"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s5-lte-1780",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef391"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a7-2017-3945",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef392"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-star-trios-1271",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef393"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s3-slim-1347",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef394"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j6-5454",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef395"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s10-lite-price-in-india-91397",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef396"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-grand-duos-534",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef397"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-j2-2018-4729",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef398"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s10-lite-price-in-india-91397",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef399"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-on-nxt-3844",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef39a"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-m10-galaxy-price-in-india-8937",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef39b"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s10-plus-8941",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef39c"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-s9-plus-4570",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef39d"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-a10s-price-in-india-90978",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef39e"
+  },
+  "userId": "dummy_user_9",
+  "itemId": "https://gadgets.ndtv.com/samsung-galaxy-win-duos-546",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef39f"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10-price-in-india-91802",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a0"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a1"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-6-pro-price-in-india-91726",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a2"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a3"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a4"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a5"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a6"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a7"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a8"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3a9"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3aa"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-c11-price-in-india-95158",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ab"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ac"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ad"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ae"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3af"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-q2-price-in-india-97680",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b0"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b1"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-6s-price-in-india-94017",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b2"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b3"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b4"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-c1-5666",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b5"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-price-in-india-96311",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b6"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-pro-price-in-india-97188",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b7"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b8"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3b9"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ba"
+  },
+  "userId": "dummy_user_10",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3bb"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3bc"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3bd"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-price-in-india-97190",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3be"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3bf"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c0"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c1"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-c1-5666",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c2"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c3"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c4"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c5"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c6"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c7"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c8"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3c9"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ca"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3cb"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3cc"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3cd"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ce"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3cf"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d0"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-5-pro-price-in-india-91003",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d1"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d2"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d3"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d4"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d5"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d6"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d7"
+  },
+  "userId": "dummy_user_11",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d8"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3d9"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3da"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3db"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-qualcomm-edition-price-in-india-98036",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3dc"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3dd"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3de"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3df"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-price-in-india-91148",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e0"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e1"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e2"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-price-in-india-96311",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e3"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e4"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e5"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e6"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e7"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e8"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3e9"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ea"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-pro-price-in-india-97188",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3eb"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ec"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ed"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-6s-price-in-india-94017",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ee"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ef"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f0"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f1"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-price-in-india-97190",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f2"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-q-price-in-india-91074",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f3"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10-price-in-india-91802",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f4"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f5"
+  },
+  "userId": "dummy_user_12",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f6"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f7"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f8"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3f9"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3fa"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-q2-price-in-india-97680",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3fb"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3fc"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20a-price-in-india-97189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3fd"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3fe"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef3ff"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef400"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef401"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef402"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-6s-price-in-india-94017",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef403"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-price-in-india-96311",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef404"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef405"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef406"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-6-pro-price-in-india-91726",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef407"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-c11-price-in-india-95158",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef408"
+  },
+  "userId": "dummy_user_13",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef409"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef40a"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef40b"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-q-price-in-india-91074",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef40c"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef40d"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef40e"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef40f"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef410"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-c1-5666",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef411"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef412"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef413"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef414"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-c11-price-in-india-95158",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef415"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10-price-in-india-91802",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef416"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef417"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef418"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef419"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef41a"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef41b"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef41c"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef41d"
+  },
+  "userId": "dummy_user_14",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef41e"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef41f"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef420"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-c1-5666",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef421"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef422"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20a-price-in-india-97189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef423"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef424"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef425"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef426"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef427"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-price-in-india-97190",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef428"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-qualcomm-edition-price-in-india-98036",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef429"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef42a"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef42b"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-6i-price-in-india-91771",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef42c"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef42d"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef42e"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-7i-price-in-india-96920",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef42f"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef430"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef431"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef432"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef433"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-6-pro-price-in-india-91726",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef434"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef435"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-q2-price-in-india-97680",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef436"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef437"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef438"
+  },
+  "userId": "dummy_user_15",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef439"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-x3-superzoom-price-in-india-93982",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef43a"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-6s-price-in-india-94017",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef43b"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-5-pro-price-in-india-91003",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef43c"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-q-price-in-india-91074",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef43d"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef43e"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20a-price-in-india-97189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef43f"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef440"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef441"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef442"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-c1-5666",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef443"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-price-in-india-91148",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef444"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef445"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef446"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef447"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef448"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef449"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef44a"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-c15-price-in-india-96311",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef44b"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-3-pro-13001",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef44c"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef44d"
+  },
+  "userId": "dummy_user_16",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef44e"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef44f"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef450"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-2-5620",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef451"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef452"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-c11-price-in-india-95158",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef453"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef454"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef455"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef456"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-7i-price-in-india-96920",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef457"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-q2-price-in-india-97680",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef458"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-6-price-in-india-91615",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef459"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10-price-in-india-91802",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef45a"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20-price-in-india-97190",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef45b"
+  },
+  "userId": "dummy_user_17",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef45c"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef45d"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef45e"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef45f"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-q-price-in-india-91074",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef460"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-1-5456",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef461"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-c11-price-in-india-95158",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef462"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-10a-price-in-india-91803",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef463"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef464"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef465"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef466"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-7i-price-in-india-96920",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef467"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef468"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-q2-price-in-india-97680",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef469"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-7-price-in-india-96818",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef46a"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-narzo-20a-price-in-india-97189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef46b"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-xt-price-in-india-91035",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef46c"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-6s-price-in-india-94017",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef46d"
+  },
+  "userId": "dummy_user_18",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef46e"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-6s-price-in-india-94017",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef46f"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-5-pro-price-in-india-91003",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef470"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef471"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-u1-5746",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef472"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef473"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-7-pro-price-in-india-96815",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef474"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-3-price-in-india-12229",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef475"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-c2-13026",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef476"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-x-price-in-india-13061",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef477"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-2-pro-5665",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef478"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-x2-pro-price-in-india-91189",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef479"
+  },
+  "userId": "dummy_user_19",
+  "itemId": "https://gadgets.ndtv.com/realme-3i-price-in-india-13183",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef47a"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-406q-1491",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef47b"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-3g-402-954",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef47c"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-x28-3786",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef47d"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-fun-a74-1007",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef47e"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-vdeo-2-3909",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef47f"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-magnus-1096",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef480"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-beat-1246",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef481"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-vdeo-2-3909",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef482"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-elanza-1269",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef483"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-selfie-4-3517",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef484"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-x1-mini-2347",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef485"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-a97-3801",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef486"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-arc-21-256",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef487"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-a97-3801",
+  "interactionType": "purchase"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef488"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-5-lite-special-edition-3696",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef489"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-blaze-mt500-1175",
+  "interactionType": "view"
+},
+{
+  "_id": {
+    "$oid": "6903b89ec5b1cf1573bef48a"
+  },
+  "userId": "dummy_user_20",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-401e-798",
+  "interactionType": "cart"
+},
+{
+  "_id": {
+    "$oid": "6903d47c0c74b8f393a1d86b"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/lava-iris-310-style-2240",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:11:24.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d4800c74b8f393a1d86d"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/oppo-a11x-price-in-india-91153",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:11:28.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d4830c74b8f393a1d86f"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/micromax-unite-4-3594",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:11:31.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d4860c74b8f393a1d871"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/oppo-a11x-price-in-india-91153",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:11:34.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d4890c74b8f393a1d873"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/oppo-a11x-price-in-india-91153",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:11:37.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d900e9d96324b520ee35"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/micromax-unite-4-3594",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:30:40.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d902e9d96324b520ee37"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/oppo-a11x-price-in-india-91153",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:30:42.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d904e9d96324b520ee39"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/oppo-a11x-price-in-india-91153",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:30:44.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d906e9d96324b520ee3b"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/asus-zenfone-4-a400cg-1207",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:30:46.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d908e9d96324b520ee3d"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/zen-cinemax-click-3926",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:30:48.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d916e9d96324b520ee44"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/huawei-mate-x-12166",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:31:02.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6903d919e9d96324b520ee46"
+  },
+  "userId": "user_1761855245096",
+  "itemId": "https://gadgets.ndtv.com/motorola-p30-5595",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-30T21:31:05.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69042b5356a9249b890562fd"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-canvas-selfie-4-3517",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-31T03:21:55.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69042b5a56a9249b890562ff"
+  },
+  "userId": "dummy_user_2",
+  "itemId": "https://gadgets.ndtv.com/micromax-unite-1683",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-10-31T03:22:02.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69078da5a759ad2c1b9e8c98"
+  },
+  "userId": "user_1762101786516",
+  "itemId": "https://gadgets.ndtv.com/oppo-a11x-price-in-india-91153",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-11-02T16:58:13.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690790004102cd078bd767f9"
+  },
+  "userId": "dummy_user_1",
+  "itemId": "https://gadgets.ndtv.com/lava-a89-3471",
+  "interactionType": "view",
+  "timestamp": {
+    "$date": "2025-11-02T17:08:16.261Z"
+  },
+  "__v": 0
+}]
