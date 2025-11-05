@@ -1,0 +1,36 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+venv/
+env/
+*.ipynb_checkpoints
+
+# ===============================
+# Node.js / Frontend
+# ===============================
+node_modules/
+dist/
+build/
+.env
+
+# ===============================
+# ML Artifacts
+# ===============================
+backend/cbf-artifacts/
+backend/cf-artifacts/
+python/*.json
+python/models/
+python/__pycache__/
+
+# ===============================
+# IDE / OS files
+# ===============================
+.vscode/
+.DS_Store
+*.swp

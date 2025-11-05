@@ -1,0 +1,19 @@
+{
+    "model_type": "Content-Based Filtering (TF-IDF & Cosine Similarity)",
+    "dataset_info": {
+        "total_items": 2000,
+        "total_features_extracted": 1250
+    },
+    "model_explanation": {
+        "what_it_is": "A model that recommends items based on their properties (content). It does not use any user interaction data.",
+        "how_it_works": "1. All mobile specs (Brand, OS, Battery, etc.) were combined into a 'soup' of keywords. \n2. TF-IDF was used to find the most important keywords for each phone. \n3. A similarity matrix was built to store a score (0 to 1) of how similar each phone is to every other phone.",
+        "what_it_is_used_for": "This model is perfect for 'cold-start' users or for a 'Find Similar Items' feature.",
+        "example": "A user is viewing a 'Realme 7 Pro' (which has 'Android 10' and a 'battery_high'). This model can instantly find the top 10 other phones that *also* have 'Android 10' and a 'battery_high', even if they are from a different brand."
+    },
+    "artifacts_generated": [
+        "cbf_similarity_matrix.npy",
+        "cbf_mappers.pkl",
+        "tfidf_vectorizer.pkl",
+        "cbf_report.json"
+    ]
+}

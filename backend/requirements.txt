@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+pickle5
+pydantic
+python-multipart

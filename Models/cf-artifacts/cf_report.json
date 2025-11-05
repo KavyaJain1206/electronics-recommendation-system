@@ -1,0 +1,29 @@
+{
+    "model_type": "Collaborative Filtering (TruncatedSVD)",
+    "dataset_info": {
+        "total_users": 20,
+        "total_items": 1561,
+        "total_interactions": 327
+    },
+    "metrics": {
+        "precision_at_10": "11.50%",
+        "recall_at_10": "30.00%",
+        "f1_score_at_10": "16.00%"
+    },
+    "metric_explanations": {
+        "precision_at_10": {
+            "question": "Out of the 10 items we recommended, how many were relevant?",
+            "explanation": "A precision of 11.50% means that, on average, about 1-2 of the 10 items recommended to a user were correct 'hits' (items the user actually interacted with in the test set).",
+            "example": "We recommend 10 phones, and the user actually liked 2 of them. Our precision is 2 / 10 = 20%."
+        },
+        "recall_at_10": {
+            "question": "Of all the items the user *actually* liked, how many did we find?",
+            "explanation": "A recall of 30.00% means our model successfully found 30% of all the 'hidden' items from the test set. This is a good sign that the model is finding relevant items.",
+            "example": "The user had 4 'hidden' liked items in the test set. Our top-10 list recommended 1 of them. Our recall is 1 / 4 = 25%."
+        },
+        "f1_score_at_10": {
+            "question": "What is the balanced score between Precision and Recall?",
+            "explanation": "The F1-Score is the harmonic mean of Precision and Recall. It provides a single number that balances the two, which is useful since you can easily get high precision by recommending only 1 item, or high recall by recommending 1000 items. F1 balances this trade-off."
+        }
+    }
+}
