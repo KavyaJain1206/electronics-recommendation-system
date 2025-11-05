@@ -47,8 +47,11 @@ npm run dev
 ```
 ### 4. Run the backend server
 ``` bash
-Copy code
-cd ../backend
-python app.py
+cd backend
+node server.js
+
+cd backend
+uvicorn app:app --reload --host 0.0.0.0 --port 8000
+
 The frontend runs on http://localhost:5173 (default Vite port), and API calls are served by the backend.
 ```
