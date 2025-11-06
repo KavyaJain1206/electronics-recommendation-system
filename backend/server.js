@@ -1,5 +1,5 @@
 // ================================
-// ✅ server.js (Final Auto-Switching Version: Local + Docker Compatible)
+// ✅ server.js (Localhost Only Version)
 // ================================
 
 const express = require('express');
@@ -12,15 +12,8 @@ const fs = require('fs');
 const path = require('path');
 const dotenv = require('dotenv');
 
-// --- 1️⃣ Load environment file dynamically ---
-const dockerEnvPath = path.resolve(__dirname, '.env.docker');
-const localEnvPath = path.resolve(__dirname, '.env');
-const isDocker = fs.existsSync('/.dockerenv');
-
-const envPath = isDocker && fs.existsSync(dockerEnvPath)
-  ? dockerEnvPath
-  : localEnvPath;
-
+// --- 1️⃣ Load local .env file ---
+const envPath = path.resolve(__dirname, '.env');
 if (fs.existsSync(envPath)) {
   dotenv.config({ path: envPath });
   console.log(`🧾 Loaded environment from ${envPath}`);
@@ -37,8 +30,7 @@ const PYTHON_API_URL =
   process.env.PYTHON_API_URL || 'http://127.0.0.1:8000/api/recommend';
 const JWT_SECRET = process.env.JWT_SECRET || 'secret';
 const FRONTEND_ORIGIN =
-  process.env.FRONTEND_ORIGIN ||
-  'http://localhost:5173,http://frontend:80';
+  process.env.FRONTEND_ORIGIN || 'http://localhost:5173';
 const COLD_START_THRESHOLD =
   parseInt(process.env.COLD_START_THRESHOLD) || 5;
 
@@ -183,9 +175,11 @@ app.post('/api/auth/register', async (req, res) => {
     const token = jwt.sign({ userId: newUser.userId, username }, JWT_SECRET, {
       expiresIn: '1h',
     });
-    res
-      .status(201)
-      .json({ message: 'Registered!', token, user: { id: newUser.userId, username } });
+    res.status(201).json({
+      message: 'Registered!',
+      token,
+      user: { id: newUser.userId, username },
+    });
   } catch {
     res.status(500).json({ message: 'Registration error.' });
   }
@@ -334,8 +328,8 @@ app.get('/api/recommendations', authMiddleware, async (req, res) => {
 mongoose
   .connect(MONGO_URI)
   .then(() => {
-    app.listen(PORT, () => {
-      console.log(`✅ Node.js backend running at http://localhost:${PORT}`);
+    app.listen(PORT, '127.0.0.1', () => {
+      console.log(`✅ Node.js backend running at http://127.0.0.1:${PORT}`);
       console.log(`🗄️  Connected to MongoDB at: ${MONGO_URI}`);
       console.log(`🤖 Python API: ${PYTHON_API_URL}`);
     });
